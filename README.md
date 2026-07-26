@@ -69,5 +69,5 @@ python manage.py runserver
 ```
 
 ## Author
+tokyo140
 
-Manas Dwivedi
